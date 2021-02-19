@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![cafeed28's GitHub stats](https://github-readme-stats.vercel.app/api?username=cafeed28&show_icons=true&theme=merko)
 <!--
 **cafeed28/cafeed28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
